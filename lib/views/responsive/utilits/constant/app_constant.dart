@@ -1,0 +1,1 @@
+const webScreenMinimum = 550;
